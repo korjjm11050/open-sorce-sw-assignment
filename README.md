@@ -12,3 +12,6 @@ ___
 *-n: 업데이트 횟수를 지정합니다. 예: top -n 10 (10회 업데이트 후 종료).
 
 *-u: 특정 사용자의 프로세스만 표시합니다. 예: top -u username.
+
+
+![image]<https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Frxlg4%2FbtqYfV2LE3L%2FSW5SbyO65ZUa5PggM3KI8K%2Fimg.png>
