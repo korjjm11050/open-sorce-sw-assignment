@@ -28,6 +28,7 @@ ___
 ![PS -A](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbv7axc%2FbtqED1UuhSy%2FyATfSkCgvuFbI6opBYNlkK%2Fimg.png)
 
 - **주요 옵션**:
+- 
 |옵션|설명|
 |--------------|-----------------|
 |ps -A	|모든 프로세스를 출력|
@@ -47,7 +48,7 @@ ___
 ## 3. `jobs` 명령어
 `jobs` 명령어는 현재 셸 세션에서 실행 중인 백그라운드 및 포어그라운드 작업의 목록을 표시합니다.
 
-![PS -A]([[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbv7axc%2FbtqED1UuhSy%2FyATfSkCgvuFbI6opBYNlkK%2Fimg.png](https://blog.kakaocdn.net/dn/BviAe/btqZpT84ElO/wEuAaRkktUJq5XiGUcZ8X0/img.png)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBviAe%2FbtqZpT84ElO%2FwEuAaRkktUJq5XiGUcZ8X0%2Fimg.png))
+![PS -A](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBviAe%2FbtqZpT84ElO%2FwEuAaRkktUJq5XiGUcZ8X0%2Fimg.png)
 
 - **주요 옵션**:
 |l 옵션| 프로세스 ID와 함께 잡 목록을 출력합니다.|
