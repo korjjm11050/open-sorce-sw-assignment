@@ -14,4 +14,4 @@ ___
 *-u: 특정 사용자의 프로세스만 표시합니다. 예: top -u username.
 
 
-![image](img src="https://blog.kakaocdn.net/dn/rxlg4/btqYfV2LE3L/SW5SbyO65ZUa5PggM3KI8K/img.png" width="1920" height="1080)
+![image](https://blog.kakaocdn.net/dn/rxlg4/btqYfV2LE3L/SW5SbyO65ZUa5PggM3KI8K/img.png)
