@@ -28,7 +28,7 @@ ___
 ![PS -A](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbv7axc%2FbtqED1UuhSy%2FyATfSkCgvuFbI6opBYNlkK%2Fimg.png)
 
 - **주요 옵션**:
-- 
+
 |옵션|설명|
 |--------------|-----------------|
 |ps -A	|모든 프로세스를 출력|
@@ -51,6 +51,9 @@ ___
 ![PS -A](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBviAe%2FbtqZpT84ElO%2FwEuAaRkktUJq5XiGUcZ8X0%2Fimg.png)
 
 - **주요 옵션**:
+  
+|옵션|설명|
+|--------------|-----------------|  
 |l 옵션| 프로세스 ID와 함께 잡 목록을 출력합니다.|
 |n 옵션| 마지막로 알림 이후 변경된 잡만 출력합니다.|
 |p 옵션| 잡의 프로세스 ID만 출력합니다.|
@@ -64,6 +67,7 @@ ___
 
 
 - **주요 옵션**:
+  
 | 옵션 | 설명 |
   |---|---|
   | `kill -9 PID` | 강제 종료(SIGKILL) |
